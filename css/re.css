@@ -1,0 +1,120 @@
+.main_section_agile.inner {
+    background: url(../images/banner1.jpg)no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    min-height: 350px;
+}
+.agileits_w3layouts_banner_nav {
+    margin: 0 auto;
+    width: 100%;
+    position: absolute;
+    z-index: 99;
+    text-align: center;
+    padding: 0em;
+}
+.header-bar {
+    padding: 2em 0em;}
+a.navbar-brand span {
+    padding-left: 0.1em;
+    margin-left: 0.1em;
+}
+h1 a.navbar-brand {
+    padding-top: 0px;
+    font-size: 43px;
+    color: #18BBCF !important;
+    text-transform: capitalize;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding-bottom: 0;
+    margin-right: 0;
+}
+a.navbar-brand span {
+    color: #868c94!important;
+    /* font-size: 22px; */
+    font-weight: 500;
+    text-transform: capitalize;
+    padding-left: 0.3em;
+    border-left: 1px solid #dadada;
+    margin-left: 0.3em;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin: 0px 15px;
+	padding: 0px 0px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+nav.navbar.navbar-toggleable-md.navbar-light {
+    padding:0em;
+    background: rgba(255, 255, 255, 0);
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color:#0bffea;
+}
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active, 
+.navbar-light .navbar-nav .nav-link.open, 
+.navbar-light .navbar-nav .open>.nav-link {
+    color: #0bffea;
+}
+.navbar {
+    padding: 0;
+}@media(max-width:800px){
+.navbar-light .navbar-nav .nav-link {
+    font-size: 14px;
+}
+    .agile_banner_text_info {
+        top: 36%;
+    }
+	.rslides_tabs {
+    bottom: -1%;
+}
+.w3-services {
+    padding: 3em 0;
+}
+.ser-agile {
+    padding: 3em 0;
+}
+section.what_you {
+    padding: 3em 0;
+}
+.test {
+    padding: 3em 0;
+}
+.features {
+    padding: 3em 0;
+}
+.w3ls_address_mail_footer_grids {
+    padding: 3em 0;
+}
+.wthree_head_section {
+    margin-bottom: 3em;
+}
+.about-bottom.inner-padding {
+    padding: 3em 0;
+}
+.team {
+    padding: 3em 0;
+}
+.projects_w3ls {
+    padding: 3em 0;
+}
+.gallery {
+    padding: 3em 0;
+}
+.contact-page {
+    padding: 3em 0 0;
+}
+.typo {
+    padding: 3em 0;
+}
+}
